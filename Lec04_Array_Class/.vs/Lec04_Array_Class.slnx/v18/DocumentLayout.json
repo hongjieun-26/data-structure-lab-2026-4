@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hong\\Documents\\data-structure-lab-2026-4\\Lec04_Array_Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79E20CB6-6379-439E-BCFF-96081BB6A62A}|Lec04_Array_Class\\Lec04_Array_Class.vcxproj|C:\\Users\\hong\\Documents\\data-structure-lab-2026-4\\Lec04_Array_Class\\Lec04_Array_Class\\Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79E20CB6-6379-439E-BCFF-96081BB6A62A}|Lec04_Array_Class\\Lec04_Array_Class.vcxproj|solutionrelative:Lec04_Array_Class\\Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E20CB6-6379-439E-BCFF-96081BB6A62A}|Lec04_Array_Class\\Lec04_Array_Class.vcxproj|C:\\Users\\hong\\Documents\\data-structure-lab-2026-4\\Lec04_Array_Class\\Lec04_Array_Class\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79E20CB6-6379-439E-BCFF-96081BB6A62A}|Lec04_Array_Class\\Lec04_Array_Class.vcxproj|solutionrelative:Lec04_Array_Class\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E20CB6-6379-439E-BCFF-96081BB6A62A}|Lec04_Array_Class\\Lec04_Array_Class.vcxproj|C:\\Users\\hong\\Documents\\data-structure-lab-2026-4\\Lec04_Array_Class\\Lec04_Array_Class\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79E20CB6-6379-439E-BCFF-96081BB6A62A}|Lec04_Array_Class\\Lec04_Array_Class.vcxproj|solutionrelative:Lec04_Array_Class\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF354593-E838-4199-9060-1952AD4444AA}|Complex_Class\\Complex_Class.vcxproj|C:\\Users\\hong\\Documents\\data-structure-lab-2026-4\\Lec04_Array_Class\\Complex_Class\\Complex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF354593-E838-4199-9060-1952AD4444AA}|Complex_Class\\Complex_Class.vcxproj|solutionrelative:Complex_Class\\Complex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Array.h",
+              "DocumentMoniker": "C:\\Users\\hong\\Documents\\data-structure-lab-2026-4\\Lec04_Array_Class\\Lec04_Array_Class\\Array.h",
+              "RelativeDocumentMoniker": "Lec04_Array_Class\\Array.h",
+              "ToolTip": "C:\\Users\\hong\\Documents\\data-structure-lab-2026-4\\Lec04_Array_Class\\Lec04_Array_Class\\Array.h",
+              "RelativeToolTip": "Lec04_Array_Class\\Array.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-08T15:44:13.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Array.cpp",
+              "DocumentMoniker": "C:\\Users\\hong\\Documents\\data-structure-lab-2026-4\\Lec04_Array_Class\\Lec04_Array_Class\\Array.cpp",
+              "RelativeDocumentMoniker": "Lec04_Array_Class\\Array.cpp",
+              "ToolTip": "C:\\Users\\hong\\Documents\\data-structure-lab-2026-4\\Lec04_Array_Class\\Lec04_Array_Class\\Array.cpp",
+              "RelativeToolTip": "Lec04_Array_Class\\Array.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-08T15:44:04.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\hong\\Documents\\data-structure-lab-2026-4\\Lec04_Array_Class\\Lec04_Array_Class\\main.cpp",
+              "RelativeDocumentMoniker": "Lec04_Array_Class\\main.cpp",
+              "ToolTip": "C:\\Users\\hong\\Documents\\data-structure-lab-2026-4\\Lec04_Array_Class\\Lec04_Array_Class\\main.cpp",
+              "RelativeToolTip": "Lec04_Array_Class\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-08T15:43:39.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Complex.cpp",
+              "DocumentMoniker": "C:\\Users\\hong\\Documents\\data-structure-lab-2026-4\\Lec04_Array_Class\\Complex_Class\\Complex.cpp",
+              "RelativeDocumentMoniker": "Complex_Class\\Complex.cpp",
+              "ToolTip": "C:\\Users\\hong\\Documents\\data-structure-lab-2026-4\\Lec04_Array_Class\\Complex_Class\\Complex.cpp",
+              "RelativeToolTip": "Complex_Class\\Complex.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-08T15:35:38.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
